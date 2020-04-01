@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppsynthAndroidAssignment</string>
+
+    <string name="firstName">FirstName</string>
+    <string name="lastName">LastName</string>
+    <string name="likes">Likes</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="offline">You are offline</string>
+    <string name="try_again">TRY AGAIN</string>
+</resources>

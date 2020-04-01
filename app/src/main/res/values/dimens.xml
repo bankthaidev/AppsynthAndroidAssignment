@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="text_normal_10">10sp</dimen>
+    <dimen name="text_normal_12">12sp</dimen>
+    <dimen name="text_normal_14">14sp</dimen>
+    <dimen name="text_normal_16">16sp</dimen>
+    <dimen name="text_normal_18">18sp</dimen>
+    <dimen name="text_normal_20">20sp</dimen>
+    <dimen name="text_normal_22">22sp</dimen>
+    <dimen name="text_normal_24">24sp</dimen>
+    <dimen name="text_normal_26">26sp</dimen>
+    <dimen name="text_normal_28">28sp</dimen>
+    <dimen name="text_normal_30">30sp</dimen>
+    <dimen name="text_normal_40">40sp</dimen>
+    <dimen name="text_normal_50">50sp</dimen>
+    <dimen name="img_normal_80">80sp</dimen>
+    <dimen name="img_normal_120">120sp</dimen>
+</resources>

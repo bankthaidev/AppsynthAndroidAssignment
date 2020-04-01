@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/lv_box_info"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="10dp">
+
+    <co.th.appsynthandroidassignment.MyFontsStyle.MyTextViewFontsBold
+            android:id="@+id/tv_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_normal_16"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Your final UI can look different, but it should include the"/>
+
+    <co.th.appsynthandroidassignment.MyFontsStyle.MyTextViewFonts
+            android:id="@+id/tv_create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_normal_12"
+            android:layout_marginTop="5dp"
+            android:text="29 May 2019 03:54 AM" />
+</LinearLayout>
