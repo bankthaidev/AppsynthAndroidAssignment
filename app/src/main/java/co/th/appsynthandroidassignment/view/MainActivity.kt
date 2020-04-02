@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() , View.OnClickListener , IMainITF.View{
         setContentView(R.layout.activity_main)
 
         mPresenter = MainPresenter(this)
-
         initInstance()
     }
 
